@@ -1,0 +1,65 @@
+#song {
+  margin-left: 20px;
+}
+
+#card {
+  display: flex;
+  flex-direction: row;
+  background-color: #e6c893;
+  align-items: center;
+  margin: 10px;
+}
+body {
+  background-color: beige;
+}
+
+table,
+tr,
+td {
+  border: 1px solid black;
+}
+
+body {
+  font-size: 20px;
+}
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7c5533;
+}
+
+#nav-item {
+  float: left;
+  padding-left: 10%;
+}
+
+#nav-item a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#nav-item a:hover {
+  background-color: #bca58f;
+}
+
+#tour {
+  background-color: #e6c893;
+}
+
+#tour-page {
+  background-color: beige;
+}
+#hr-photos{
+  border: none;
+  height: 5px;
+  /* Set the hr color */
+  color: #7c5533;  /* old IE */
+  background-color: #7c5533;
+  
+}
+
